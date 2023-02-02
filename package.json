@@ -1,0 +1,22 @@
+{
+    "name"         : "node-red-heroku",
+    "version"      : "0.0.2",
+    "dependencies": {
+        "when": "~3.x",
+        "pg": "^8.3.0",
+        "nano": "~10.x",
+        "feedparser":"~0.19.2",
+        "redis":"~0.10.1",
+        "node-red": "~2.x",
+        "node-red-contrib-config": "~1.2.1",
+        "node-red-contrib-hourglass": "~1.5.0",
+        "node-red-contrib-timeout": "~1.1.5",
+        "node-red-contrib-ui-media": "~1.2.0",
+        "node-red-dashboard": "~3.0.4",
+        "node-red-node-email": "~1.12.3",
+        "node-red-node-feedparser": "~0.2.1",
+        "node-red-node-mongodb": "~0.2.5",
+        "node-red-node-twitter": "~1.2.0",
+        "node-red-node-ui-list": "~0.3.6"
+    }
+}
